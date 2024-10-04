@@ -1,7 +1,7 @@
 package com.example
 
 class ExampleClass {
-     void printMessage(String message) {
+    static String printMessage(String message) {
        return  "ExampleClass: ${message}"
     }
 }
