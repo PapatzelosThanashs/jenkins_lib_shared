@@ -1,4 +1,4 @@
-package com.example
+package com.newexample
 
 class newClass {
      void mymethod(String message) {
